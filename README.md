@@ -1,2 +1,7 @@
 # LEARNING
 CRAZY WITH LATEST TECHNOLOGIES
+Just checkout
+AI and ML
+blockchain
+IoT
+
